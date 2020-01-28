@@ -11,6 +11,8 @@
 	Thx - Hardy
 
 -->
+    <string name="plugin_prefs_reset_successful">All plugin settings restored to default state.</string>
+    <string name="profile_prefs_reset_successful">All profile settings restored to default state.</string>
     <string name="permission_is_required">Permission is required to use this option.</string>
     <string name="logcat_buffer_descr">Check and share detailed logs of the application</string>
     <string name="file_does_not_contain_routing_rules">No routing rules in \'%1$s\'. Please choose another file.</string>
